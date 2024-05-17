@@ -1,18 +1,17 @@
 h1{
-    background-color: #726d6d;
-    color: rgba(1, 1, 10, 0.864);
+    background-color: #726d6d ;
 border-radius: 50%;
 text-align: center;
 }
 
 img{
     height: 500px;
-container: 1px;
+;
 }
 
 p{
- border: 1px;
- background-color:  #726d6d;
+    border: 1px;
+    color: rgba(183, 200, 32, 0.864);
 }
 
 h2{
@@ -22,9 +21,16 @@ h2{
 }
 
 .p-fondo{
-text-align: none;
-
+color:rgba(183, 200, 32, 0.864) ;
 }
 
+body {
+    background-color: black;
+    font-family:"Poppins", sans-serif;
+    padding: 3rem;
+    max-width: 1000px;
+}
 
-
+.lista {
+    color: rgba(183, 200, 32, 0.864);
+}
