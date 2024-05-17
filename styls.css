@@ -1,0 +1,28 @@
+h1{
+    background-color: #726d6d;
+    color: rgba(1, 1, 10, 0.864);
+border-radius: 50%;
+text-align: center;
+}
+
+img{
+    height: 500px;
+
+}
+
+p{
+ border: 1px;
+ background-color:  #726d6d;
+}
+
+h2{
+    background-color: #726d6d ;
+    text-align: center ;
+    border-radius: 50%;
+}
+
+.p-fondo{
+text-align: none;
+
+}
+
